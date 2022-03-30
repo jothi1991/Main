@@ -6,6 +6,8 @@ public class Gitexample1 {
 		// TODO Auto-generated method stub
 
 		System.out.println("this is for git");
+		System.out.println("update from remote");
+		
 	}
 
 }
